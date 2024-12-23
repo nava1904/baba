@@ -1,2 +1,2 @@
-# baba
-the baba site
+#ml
+earthquake pridiction using cnn
